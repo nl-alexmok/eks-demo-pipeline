@@ -1,1 +1,1 @@
-# eks-demo-pipeline
+# gitops-demo-app
